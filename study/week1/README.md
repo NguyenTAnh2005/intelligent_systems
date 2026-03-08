@@ -1,0 +1,5 @@
+- Phiên bản Python được dùng: 3.12.0
+- IDE: GOAT VS Code
+- Extension cài thêm khi dùng Python:
+  - Python Debugger (Microsolf - 112M)
+  -
